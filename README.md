@@ -12,6 +12,6 @@ The web app was developed using HTML, CSS and Flask framework.  We used Machine 
 
 we made the machine learning model and trained it with the dataset and saved the trained model in a .pkl file <b>Model.pkl</b>.  On Predictor.py, the trained model i.e. Model.pkl will be loaded and be used for prediction.
 
-We used Flask framework to get the input provided by the user and feed it to the ML model and display the prediction result back to the webpage.  
+We used Flask framework to get the input provided by the user in a webpage and feed it to the ML model and display the prediction result back in the webpage.  
 
 The final result will display the result as : <b>You will take x to y times the Inhaler</b> in the webpage.
