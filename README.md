@@ -14,6 +14,6 @@ we made the machine learning model and trained it with the dataset and saved the
 
 We used Flask framework to get the input provided by the user in a webpage and feed it to the ML model and display the prediction result back in the webpage.  
 
-The final result will display the result as : <b>You will take x to y times the Inhaler</b> in the webpage.
+The final result will be displayed as : <b>You will take x to y times the Inhaler</b> in the webpage.
 
 The next stage of this project would be making it as an IOT application where, the application will automatically find the atmospheric temperature and air density and there is no need for the user to enter these as inputs. 
