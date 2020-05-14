@@ -12,6 +12,7 @@ data=pd.read_csv('data.csv')
 
 labels=data['target']
 
+#drop unwanted features
 data=data.drop(['Name','target'],axis=1)
 data['Gender']=data['Gender'].replace('m',1)
 data['Gender']=data['Gender'].replace('f',0)
