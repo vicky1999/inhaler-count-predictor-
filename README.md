@@ -1,5 +1,5 @@
 # inhaler-count-predictor
-A web app for people with breathing problems to find the number of times they need to use the inhaler per day based on the atmospheric temperature, air density and the age of that person as these were the factors influencing the usage of inhaler.
+A web application for people with breathing problems to find the number of times they need to use the inhaler per day based on the atmospheric temperature, air density and the age of that person as these were the factors influencing the usage of inhaler.
 
 The web app was developed using HTML, CSS and Flask framework.  We used Machine Learning to make the prediction model to predict the count of the usage of inhaler.  The Machine Learning model used here is <b>Decision Tree</b>.
 
